@@ -1,5 +1,5 @@
 # csharp-worker-hangfire
-Este é um projeto com finalidade de estudos e conhecimento de worker/hangfire.
+Este é um projeto com finalidade de estudos e conhecimentos básicos de worker/hangfire.
 
 
 ## Conteúdos Abordados:
