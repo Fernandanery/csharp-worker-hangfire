@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|solutionrelative:csharp-worker-hangfire\\services\\monitorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\csharp-worker-hangfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|solutionrelative:csharp-worker-hangfire\\csharp-worker-hangfire.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|solutionrelative:csharp-worker-hangfire\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\configuration\\hangfiredashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|solutionrelative:csharp-worker-hangfire\\configuration\\hangfiredashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\csharp-worker-hangfire.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|solutionrelative:csharp-worker-hangfire\\csharp-worker-hangfire.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|c:\\users\\4960031201\\onedrive - via varejo s.a\\\u00E1rea de trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D52391BE-DF72-474C-8C3E-6714E42A2E54}|csharp-worker-hangfire\\csharp-worker-hangfire.csproj|solutionrelative:csharp-worker-hangfire\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HangFireDashBoard.cs",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\Configuration\\HangFireDashBoard.cs",
+              "RelativeDocumentMoniker": "csharp-worker-hangfire\\Configuration\\HangFireDashBoard.cs",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\Configuration\\HangFireDashBoard.cs",
+              "RelativeToolTip": "csharp-worker-hangfire\\Configuration\\HangFireDashBoard.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:48:52.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "csharp-worker-hangfire.http",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\csharp-worker-hangfire.http",
+              "RelativeDocumentMoniker": "csharp-worker-hangfire\\csharp-worker-hangfire.http",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\csharp-worker-hangfire.http",
+              "RelativeToolTip": "csharp-worker-hangfire\\csharp-worker-hangfire.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-26T13:43:38.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "csharp-worker-hangfire\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\Properties\\launchSettings.json",
+              "RelativeToolTip": "csharp-worker-hangfire\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-26T13:35:46.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MonitorService.cs",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\Services\\MonitorService.cs",
+              "RelativeDocumentMoniker": "csharp-worker-hangfire\\Services\\MonitorService.cs",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\Services\\MonitorService.cs",
+              "RelativeToolTip": "csharp-worker-hangfire\\Services\\MonitorService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwDAAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:18:20.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "csharp-worker-hangfire.csproj",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\csharp-worker-hangfire.csproj",
+              "RelativeDocumentMoniker": "csharp-worker-hangfire\\csharp-worker-hangfire.csproj",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\csharp-worker-hangfire.csproj",
+              "RelativeToolTip": "csharp-worker-hangfire\\csharp-worker-hangfire.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-26T13:07:57.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\Program.cs",
+              "RelativeDocumentMoniker": "csharp-worker-hangfire\\Program.cs",
+              "ToolTip": "C:\\Users\\4960031201\\OneDrive - Via Varejo S.A\\\u00C1rea de Trabalho\\csharp-worker-hangfire\\csharp-worker-hangfire\\Program.cs",
+              "RelativeToolTip": "csharp-worker-hangfire\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-26T13:07:22.665Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

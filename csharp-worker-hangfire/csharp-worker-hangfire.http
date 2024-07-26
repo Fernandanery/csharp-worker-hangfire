@@ -1,0 +1,6 @@
+@csharp_worker_hangfire_HostAddress = http://localhost:5290
+
+GET {{csharp_worker_hangfire_HostAddress}}/hangfire/
+Accept: application/json
+
+###

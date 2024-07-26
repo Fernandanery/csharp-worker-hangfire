@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "e4zQbE8cNfaIx+PmIc8bMJKra2yDq/fStCAVNBWWkWY=",
+  "Source": "csharp-worker-hangfire",
+  "BasePath": "_content/csharp-worker-hangfire",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
